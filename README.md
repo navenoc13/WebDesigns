@@ -1,4 +1,4 @@
-# WebDesigns
+# Web Designs
 Each folder of this project contains various Web Designs, patterns and also complete Websites. Most are made using pure HTML and CSS, without using any CSS library like bootstrap etc.
 
 ### Corps
